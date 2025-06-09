@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  The blue trip
+
+  Created by Brandon Grande on 01/06/2025.
+*/
+
+"name.game.title.text" = "The blue trip";
+"play.button.text" = "JUGAR";
+"game.over.lose" = "Game Over";
+"game.over.win" = "¡Has ganado la partida!";
+"score.text" = "Puntuación: %@";
