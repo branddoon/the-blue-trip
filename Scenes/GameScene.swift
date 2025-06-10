@@ -45,7 +45,7 @@ final class GameScene: ParentScene {
     
     override func update(_ currentTime: TimeInterval) {
         if joystickIsActive {
-            player.position = CGPointMake(player.position.x - (playerVelocityX * 3),
+            player.position = CGPointMake(player.position.x + (playerVelocityX * 3),
                                           player.position.y + (playerVelocityY * 3))
         }
     }
